@@ -1,0 +1,3 @@
+# ML-Classification-models
+Part of CSE 471 AI assignment where several classification models using Linear, Logistic, Polynomial regressions and neural nets are developed 
+MNIST Fashion is the dataset used for classification
